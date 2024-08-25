@@ -1,0 +1,10 @@
+{
+  "name": "tic_tac_toe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "jQuery": "^1.7.4"
+  }
+}
